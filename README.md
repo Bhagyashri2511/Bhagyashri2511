@@ -16,14 +16,13 @@ I'm Bhagyashri Jagadale,
 <details open>
   <summary> 🔦 Skills: </summary>
   
-`Python` `SAAS`  `Git` `Tableau` `PowerBI` `DAX` `Advance Excel`
-`Azure` `Data Analysis` `Data Visualisation` `R` `Github Apps` 
-`Kubernetes` `Data clustering/classification techniques`  `HTML` `CSS` 
+`Python` `SAAS` `Git` `Tableau` `PowerBI` `DAX` `Advanced Excel`  
+`Azure` `Data Analysis` `Data Visualisation` `R` `Github Apps`  
+`Kubernetes` `Data clustering/classification techniques` `HTML` `CSS`
 </details>
 
 ### Languages and Tools: 🛠️
-
- 
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -35,12 +34,12 @@ I'm Bhagyashri Jagadale,
 
 ### GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyashrikshitole)](https://github.com/bhagyashrikshitole/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyashri2511)](https://github.com/Bhagyashri2511/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyashrikshitole&" alt="bhagyashrikshitole" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagyashri2511&" alt="Bhagyashri2511" /></p>
 
-[![HitCount](http://hits.dwyl.com/bhagyashrikshitole/bhagyashrikshitole.svg)](http://hits.dwyl.com/bhagyashrikshitole/bhagyashrikshitole)
+[![HitCount](http://hits.dwyl.com/Bhagyashri2511/Bhagyashri2511.svg)](http://hits.dwyl.com/Bhagyashri2511/Bhagyashri2511)
 
 <!--
-**bhagyashrikshitole/bhagyashrikshitole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bhagyashri2511/Bhagyashri2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
