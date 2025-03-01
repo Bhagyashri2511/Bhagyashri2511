@@ -37,7 +37,6 @@ I'm Bhagyashri Jagadale,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyashri2511)](https://github.com/Bhagyashri2511/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhagyashri2511&" alt="Bhagyashri2511" /></p>
-
 [![HitCount](http://hits.dwyl.com/Bhagyashri2511/Bhagyashri2511.svg)](http://hits.dwyl.com/Bhagyashri2511/Bhagyashri2511)
 
 <!--
